@@ -1,4 +1,4 @@
 
-DROP DATABASE IF EXISTS em-tracker;
-CREATE DATABASE em-tracker;
-USE em-tracker;
+DROP DATABASE IF EXISTS employee-tracker;
+CREATE DATABASE employee-tracker;
+USE employee-tracker;
