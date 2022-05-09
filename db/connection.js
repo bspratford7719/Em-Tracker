@@ -11,7 +11,7 @@ db.configure({
   password: 'Bas2022@!',
 
   // enter database
-  database: 'em-tracker'
+  database: 'employee-tracker'
 });
 
 module.exports = db;
