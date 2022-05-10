@@ -10,7 +10,7 @@ db.configure({
   // MySQL password
   password: 'Bas2022@!',
 
-  // enter database
+  // enter database info
   database: 'employee-tracker'
 });
 
